@@ -67,8 +67,8 @@ JavaScript-powered booking interface with responsive design and validation.
 
 ## 📫 Let’s Connect
 
-- 🌐 [Portfolio Website](https://stephenbeese.dev)  
-- 💼 [LinkedIn](https://linkedin.com/in/your-link)  
+- 🌐 [Portfolio Website](https://stephenbeese.github.io/portfolio/)
+- 💼 [LinkedIn](https://linkedin.com/in/stephenbeese)  
 - 🧑‍💻 [GitHub](https://github.com/stephenbeese)  
 - 📬 stephenbeese.dev@gmail.com  
 
