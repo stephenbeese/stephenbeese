@@ -74,4 +74,4 @@ JavaScript-powered booking interface with responsive design and validation.
 
 ---
 
-> “Whether I’m building software, analyzing data, or creating music, I’m always driven by curiosity, clarity, and continuous improvement.”
+> “Whether I’m building software, analysing data, or creating music, I’m always driven by curiosity, clarity, and continuous improvement.”
