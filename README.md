@@ -37,7 +37,7 @@ Responsive Design | API Integration | UI/UX | Software Testing | Version Control
 Data analysis of the international growth of snooker based on a dataset of match results from 1982 to 2020. Completed a full ETL pipeline and created visualisations that highlight participation and performance trends of international players season-by-season.
 **Tech:** Python, Pandas, NumPy, Jupyter Notebooks, Seaborn, Plotly, Matplotlib
 
-### 🛍️ [Online Retail Analysis](https://github.com/stephenbeese/Online-Retail-Analysis)
+### 🛍️ [Online Retail Analysis - Data Analysis](https://github.com/stephenbeese/Online-Retail-Analysis)
 Hackathon project completed in a **team of five**, analysing a UK retail dataset to uncover trends in **sales performance, customer behaviour, and product insights**. I contributed as **Project Manager and Data Analyst**, leading the project plan, ETL workflow, and managing version control and our GitHub repository. Together, we validated hypotheses and delivered interactive visualisations in Jupyter Notebooks and Tableau to inform business decisions.
 **Tech:** Python, Pandas, NumPy, Matplotlib, Seaborn, Plotly, Tableau, Jupyter Notebooks
 
