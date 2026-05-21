@@ -1,90 +1,74 @@
 # 👋 Hi, I’m Stephen Beese
 
-I'm a **Junior Full Stack Developer** currently expanding my skills in **Data Analytics and Artificial Intelligence** through Code Institute's Data Analytics with AI Bootcamp. With a solid foundation in web development and a growing command of data-driven technologies, I enjoy building meaningful, scalable solutions that bridge functionality and insight.
+I'm a **Frontend Software Engineer** specialising in **React, TypeScript, and Data-Rich Applications**. I currently build production features for complex investment management software at Vega Investments, leveraging a strong background in full-stack development (Python/Django) and data analytics. 
 
-I hold a Level 5 Diploma in Full Stack Software Development from Code Institute. I am deeply committed to continuous learning — from mastering modern JavaScript frameworks to exploring AI-powered analytics and machine learning.
+I thrive at the intersection of precise UI delivery, complex data workflows, and contract-first API integration. I'm passionate about engineering highly interactive, accessible, and clean user experiences.
 
 ---
 
-## 🎓 Currently Learning
-
-🧠 **Data Analytics with AI Bootcamp**, Code Institute  
-- Learning tools like Python, Pandas, Jupyter Notebooks, Matplotlib, Seaborn  
-- Gaining hands-on experience with data cleaning, data visualisation, and machine learning  
-- Exploring real-world applications like clustering, predictive modelling, and neural networks  
-- Working on capstone projects and hackathons focused on practical, job-ready skills  
-[Course Info →](https://codeinstitute.net/data-analytics-and-ai-bootcamp/)
+## ⚡ Commercial Engineering Impact
+* **High-Velocity Feature Delivery:** Proven track record of rapid onboarding and independent feature ownership, successfully shipping production code across multiple product domains concurrently.
+* **End-to-End Feature Ownership:** Experienced in building complex frontend workflows from the ground up—architecting strict type definitions, data-loading states, form management pipelines, and third-party portal integrations.
+* **Frontend Architecture & Migrations:** Adept at modernising legacy views by implementing scalable routing, server-side pagination, advanced filtering, and incremental rollouts via feature flags.
+* **Precise UI/UX Refinement:** Highly skilled at translating complex Figma designs into high-fidelity code, creating intuitive data-rich interfaces, managing design token systems, and resolving intricate responsive design defects.
+* **Testing & Quality Discipline:** Committed to high-coverage testing, utilising component interaction tests and visual regression tools to secure UI stability and maintain long-term codebase confidence.
 
 ---
 
 ## 💻 Tech Stack
 
-**Languages:**  
-HTML5 | CSS3 | JavaScript | Python3
+**Frontend & UI Architecture:** React | TypeScript | JavaScript (ES6+) | HTML5 | CSS3 | Tailwind CSS | Figma Implementation | Component Architecture | Accessibility (a11y)
 
-**Frameworks & Tools:**  
-Django | ReactJS | Bootstrap | Flask | Django REST | PostgreSQL | Git | Heroku | Cloudinary | Stripe API | jQuery | Jest  
-**In Progress:** Pandas | Matplotlib | Jupyter Notebooks | NumPy | Tableau | PowerBI | Seaborn | Plotly
+**Testing & Quality Assurance:** React Testing Library | Vitest / Jest | Storybook Play Functions | Chromatic Visual Regression
 
-**Specialisms:**  
-Responsive Design | API Integration | UI/UX | Software Testing | Version Control | Data Analytics | Machine Learning | Accessibility
+**Backend & API Integration:** REST APIs | Generated API Contracts (OpenAPI/Swagger) | Python | Django | Django REST Framework | Flask | PostgreSQL
+
+**Data Analytics & Tools:** SQL | Pandas | NumPy | Jupyter | Tableau | Matplotlib | Plotly | Git & GitHub | Feature Flagging | Agile / Scrum
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Projects & Repositories
 
-### 🌍 [The International Growth of Snooker - Data Analysis](https://github.com/stephenbeese/Snooker-Data-Analysis)
-Data analysis of the international growth of snooker based on a dataset of match results from 1982 to 2020. Completed a full ETL pipeline and created visualisations that highlight participation and performance trends of international players season-by-season.
+### 🛍️ [FizzyBeese – Django E-Commerce Platform](https://github.com/stephenbeese/FizzyBeese) 
+A full-stack, responsive e-commerce application built to manage commercial workflows.
+* Implemented secure real-time credit card processing via **Stripe API integration**.
+* Built custom, dynamic stock control management systems, user profiles, and order histories.
+* **Tech:** Python, Django, JavaScript, PostgreSQL, Stripe, AWS, Heroku, Bootstrap
 
-**Tech:** Python, Pandas, NumPy, Jupyter Notebooks, Seaborn, Plotly, Matplotlib
+### 📊 [Video Game Sales Analysis – Interactive Dashboard](https://github.com/stephenbeese/Video-Game-Sales-Analysis) 
+A deep-dive data analytics project processing historical gaming market distributions.
+* Formulated an ETL pipeline to clean, parse, and analyse an expansive dataset spanning 1980–2016.
+* Engineered dynamic visual trends and built a comprehensive **Tableau dashboard** to break down regional performance and review-score correlations for non-technical stakeholders.
+* **Tech:** Python, Pandas, NumPy, Jupyter Notebooks, Tableau, Matplotlib, Plotly
 
-### 🛍️ [Online Retail Analysis - Data Analysis](https://github.com/stephenbeese/Online-Retail-Analysis)
-Hackathon project completed in a team of five, analysing a UK retail dataset to uncover trends in sales performance, customer behaviour, and product insights. I contributed as Project Manager and Data Analyst, leading the project plan, ETL workflow, and managing version control and our GitHub repository. Together, we validated hypotheses and delivered interactive visualisations in Jupyter Notebooks and Tableau to inform business decisions.
-
-**Tech:** Python, Pandas, NumPy, Matplotlib, Seaborn, Plotly, Tableau, Jupyter Notebooks
-
-### 🛒 [FizzyBeese - E-Commerce Platform](https://github.com/stephenbeese/FizzyBeese)  
-Developed a full-stack Django e-commerce app with real-time Stripe payment integration, custom stock control, and user profile management. I led the backend architecture and API integration, ensuring secure payments and efficient order tracking.
-
-**Tech:** Python, Django, HTML, CSS, JavaScript, AWS, Heroku, Stripe, PostgreSQL
-
-### 🎱 [The 147 Club - Booking System](https://github.com/stephenbeese/Snooker-Hall-Booking-System)  
-Built an online reservation system for booking snooker tables. I focused on database design and data integrity, implementing secure user management and dynamic validation to ensure reliable bookings.
-
-**Tech:** Python, Django, HTML, CSS, JavaScript, Cloudinary, Heroku, PostgreSQL
-
-### 📅 [Anytime Booking - Responsive Form](https://github.com/stephenbeese/Booking-form)  
-Created a responsive booking form with JavaScript-driven validation to enhance usability and reduce input errors. I handled the frontend logic and UI design, ensuring cross-device compatibility.
-
-**Tech:** HTML, CSS, JavaScript, Bootstrap
+### 🎱 [The 147 Club – Snooker Booking System](https://github.com/stephenbeese/Snooker-Hall-Booking-System) 
+A reservation platform designed with strict backend validation rules and data handling.
+* Developed robust form field logic and dynamic error checking to handle concurrent table booking conflicts.
+* Structured secure relational tables to optimise user profile associations and booking availability timelines.
+* **Tech:** Python, Django, PostgreSQL, HTML5, CSS3, JavaScript
 
 ---
 
-## 🧠 What I Bring
-
-- 🔍 A **problem-solving mindset** — Whether debugging code or analysing data, I enjoy working through challenges step-by-step.
-- 💬 Strong **communication and teamwork** skills from leadership experience in fast-paced industries.
-- 🎨 A **creative edge** from my background in music and UI/UX design.
-- 📈 A growing ability to uncover **data insights** and build intelligent solutions with AI.
+## 🎓 Education & Certifications
+* **Data Analytics with AI Bootcamp** – Code Institute (Credit-Rated by University of the West of Scotland) | *Graduated 2025*
+* **Level 5 Diploma in Full-Stack Software Development** – Code Institute (Credit-Rated by University of the West of Scotland) | *Graduated 2023*
+* **BA (Hons) Professional Musicianship** – BIMM Institute, Brighton
 
 ---
 
 ## 🎵 Beyond the Code
-
-- 👾 Built a collaborative **web-based music game** during a hackathon
-- 🎸 Gigging musician for over 10 years (bass & keyboards)
-- 🎱 Local snooker league player with a love for strategy and precision
-- 🕹️ Retro gaming enthusiast — especially console modding and emulation
+* 🎸 **Music:** Gigging musician for over 10 years playing bass and keyboards. (I treat component architecture a lot like arranging a tight rhythm section!)
+* 🎱 **Snooker:** Active local snooker league player with a deep appreciation for geometric strategy and absolute precision.
+* 🕹️ **Retro Tech:** Huge enthusiast for hardware console modding and emulation environments.
 
 ---
 
 ## 📫 Let’s Connect
-
-- 🌐 [Portfolio Website](https://stephenbeese.github.io/portfolio/)
-- 💼 [LinkedIn](https://linkedin.com/in/stephenbeese)  
-- 🧑‍💻 [GitHub](https://github.com/stephenbeese)  
-- 📬 stephenbeese.dev@gmail.com  
+* 🌐 [Portfolio Website](https://stephenbeese.github.io/portfolio/)
+* 💼 [LinkedIn](https://www.linkedin.com/in/stephenbeese/)
+* 🧑‍💻 [GitHub](https://github.com/stephenbeese)
+* 📬 stephenbeese.dev@gmail.com
 
 ---
 
-> “Whether I’m building software, analysing data, or creating music, I’m always driven by curiosity, clarity, and continuous improvement.”
+> “Whether I’m scaling frontend architecture, mapping out data-loading workflows, or arranging music, I build with curiosity, absolute clarity, and an eye for exceptional user experience.”
